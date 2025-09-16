@@ -1,5 +1,5 @@
 # **EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS**
-## DATE:10-09-2025
+## DATE:16-09-2025
 ## **Aim**:
 
 To test and compare how different pattern models (naïve/unstructured vs. basic/structured) respond to various prompts across multiple scenarios, and analyze the quality, accuracy, and depth of the generated responses.
